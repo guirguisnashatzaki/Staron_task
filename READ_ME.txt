@@ -1,0 +1,1 @@
+Don't forget to change the host number in the base url in the front end in file named constants
